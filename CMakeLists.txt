@@ -13,3 +13,4 @@ endif()
 
 add_subdirectory(arrays)
 add_subdirectory(tabulate)
+add_subdirectory(struct)
